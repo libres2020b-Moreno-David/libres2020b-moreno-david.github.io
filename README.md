@@ -47,7 +47,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ###### TITULO 6
 
 
-
+Mi nombre es **David Moreno** me gusta ~~la computacion~~
 
 
 
