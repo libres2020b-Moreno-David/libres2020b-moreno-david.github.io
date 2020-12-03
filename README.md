@@ -49,5 +49,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Mi nombre es **David Moreno** me gusta ~~la computacion~~
 
+## Listas Ordenadas 
+las listas ordenadas son las siguientes:
+1.  Lunes 
+1.  Martes
+1.  Miercoles
 
+Las listas no ordenadas son las siguientes:
+-  Manzanas
+-  Peras 
+-  Piñas
 
