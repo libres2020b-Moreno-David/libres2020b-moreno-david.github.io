@@ -70,7 +70,7 @@ Quiero ir a [Google](https://www.google.com "Me gusta la monita") y se mostrara 
 ![Carro](https://clasesdeguitarra.com.co/wp-content/uploads/2017/10/Ibanez-GRX70QA.jpg "Me gustan las guitarras")
 
 # Imagen HTML
-<img src= "https://www.musicado.es/3421-large_default/guitarra-electrica-ibanez-rg927qmz-rdt-premium-7-cuerdas.jpg" height"300px" >
+<img src="https://www.musicado.es/3421-large_default/guitarra-electrica-ibanez-rg927qmz-rdt-premium-7-cuerdas.jpg" height="300px" >
 
 
 
@@ -101,9 +101,9 @@ $ apt update
 
 # Tablas
 | Nombre | Apellido|
-|--- | ---|
-| David | Isaac |
-| Moreno | Muso |
+| ---    | ---     |
+| David  | Isaac   |
+| Moreno | Muso    |
 
 
 
