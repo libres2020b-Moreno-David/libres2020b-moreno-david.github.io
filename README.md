@@ -67,5 +67,5 @@ Quiero ir a [Google](https://www.google.com)
 Quiero ir a [Google](https://www.google.com "Me gusta la monita") y se mostrara un mensaje encima del link
 
 # Imagen
-! [Carro](https://clasesdeguitarra.com.co/wp-content/uploads/2017/10/Ibanez-GRX70QA.jpg "Me gustan las guitarras")
+![Carro](https://clasesdeguitarra.com.co/wp-content/uploads/2017/10/Ibanez-GRX70QA.jpg "Me gustan las guitarras")
 
