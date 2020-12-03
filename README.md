@@ -105,11 +105,25 @@ $ apt update
 | David  | Isaac   |
 | Moreno | Muso    |
 
+## Quotes
+>Laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarguisima y pues mas y mas
+>igual sigo siendo parte de la cita
 
+otra cita
+> uno
+> Dos 
+> Tres
+> **David `Moreno`
 
+## Lineas separadas y HTML
 
+---
 
+Contenido
 
+---
+
+<p>Hola amigo **Como estas** <strong> COMO ESTAS</strong> </p>
 
 
 
